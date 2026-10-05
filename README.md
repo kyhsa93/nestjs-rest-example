@@ -1,3 +1,5 @@
+> **Archived — no longer maintained.** See [nestjs-rest-cqrs-example](https://github.com/kyhsa93/nestjs-rest-cqrs-example) or [backend-service-playbook/implementations/nestjs](https://github.com/kyhsa93/backend-service-playbook/tree/main/implementations/nestjs) for the maintained version.
+
 # Nest sample code
 
 This is sample nestjs project.
