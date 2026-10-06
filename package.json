@@ -6,7 +6,7 @@
   "author": "kyhsa93",
   "license": "ISC",
   "dependencies": {
-    "@nestjs/common": "^6.5.3",
+    "@nestjs/common": "^10.4.16",
     "@nestjs/core": "^6.5.3",
     "@nestjs/microservices": "^6.5.3",
     "@nestjs/platform-express": "^6.5.3",
